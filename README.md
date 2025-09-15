@@ -26,7 +26,7 @@ A simple yet powerful **Python script** to automatically organize files in any f
 
 ---
 
-[Download the `.exe` file here](https://github.com/Dexterisham/File-Organizer/releases/download/v1.0/FileOrganizer.exe)
+[Download the `.exe` file here](https://github.com/Dexterisham/File-Organizer/releases/download/v1.0/File.Organizer.exe)
 
 
 ---
